@@ -1,1 +1,2 @@
-# DynamoDBQueue
+# DynamoBatchQueue
+In Developement.
